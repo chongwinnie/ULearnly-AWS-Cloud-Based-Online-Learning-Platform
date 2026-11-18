@@ -72,14 +72,12 @@ The project hosts a Moodle-based online learning platform. It features:
 
 ---
 
+## 🎬 Project Demo
 
-## 👥 Group Members
+Watch the demonstration of **ULearnly: AWS Cloud-Based Online Learning Platform**.
 
-| No. | Name             |
-|-----|------------------|
-| 1   | CHIA YONG CHENG  |
-| 2   | CHIN JIAN MING   |
-| 3   | CHONG WIN NIE    | 
-| 4   | TEO QIYANG       |
-| 5   | WONG YEN MING    |
+[![Watch ULearnly Demo](https://img.youtube.com/vi/VnRl-CAEutY/maxresdefault.jpg)](https://youtu.be/VnRl-CAEutY)
+
+▶️ **[Watch the Full Project Demo on YouTube](https://youtu.be/VnRl-CAEutY)**
+
 
