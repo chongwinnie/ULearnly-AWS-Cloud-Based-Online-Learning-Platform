@@ -75,9 +75,6 @@ The project hosts a Moodle-based online learning platform. It features:
 ## 🎬 Project Demo
 
 Watch the demonstration of **ULearnly: AWS Cloud-Based Online Learning Platform**.
-
-[![Watch ULearnly Demo](https://img.youtube.com/vi/VnRl-CAEutY/maxresdefault.jpg)](https://youtu.be/VnRl-CAEutY)
-
 ▶️ **[Watch the Full Project Demo on YouTube](https://youtu.be/VnRl-CAEutY)**
 
 
